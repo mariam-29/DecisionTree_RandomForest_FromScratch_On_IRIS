@@ -5,7 +5,7 @@ No scikit-learn models are used — only for testing and dataset loading.
 
 📌 Features
 
-Implementation of Decision Tree Classifier with:
+- Implementation of Decision Tree Classifier with:
 
 Gini impurity
 
@@ -13,11 +13,12 @@ Recursive tree building
 
 Stopping conditions (max_depth, min_split)
 
-Implementation of Random Forest Classifier with:
+- Implementation of Random Forest Classifier with:
 
 Bootstrapped sampling
+
 Random feature selection at each tree
 
 Majority voting for predictions
 
-Test script using the Iris dataset.
+- Test script using the Iris dataset.
